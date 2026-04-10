@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "765889173380",
+        "project_id": "smartfruit-6c05f",
+        "storage_bucket": "smartfruit-6c05f.firebasestorage.app"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:765889173380:android:3b27c00517f01d5d92afd1",
+            "android_client_info": {
+                "package_name": "com.example.smartfruit_app"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyABMFj_aCwsm-BbsMTXFfCTjyIaDn5BcZQ"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

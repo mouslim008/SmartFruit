@@ -1,0 +1,25 @@
+name: smartfruit
+description: Smart Fruit Classifier App
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+
+  image_picker: ^1.1.2
+  tflite_flutter: ^0.11.0
+
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.0.2
+
+  http: ^1.2.2
+
+assets:
+  - assets/fruit_classifier.tflite
+  - assets/labels.txt
